@@ -1,3 +1,4 @@
 <?php
-  echo 'helloworld';
+  echo 'helloworld111';
+  echo phpinfo();
  ?>
