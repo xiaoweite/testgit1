@@ -1,1 +1,3 @@
-fdfkdjfkjdfjd
+<?php
+	echo 'helloword';
+?>
